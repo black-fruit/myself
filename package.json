@@ -6,6 +6,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "@vercel/node": "^3.2.15",
     "express": "^4.21.0",
     "fs": "^0.0.1-security",
     "path": "^0.12.7"
